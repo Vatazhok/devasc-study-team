@@ -1,8 +1,8 @@
 
-from flask import Flask, jsonify
+from flask import Flask
 from flask.scaffold import F
 from flask_restful import Resource, Api, reqparse
-from flask_cors import CORS, cross_origin
+from flask_cors import CORS
 import pandas as pd
 
 app = Flask(__name__)
