@@ -1,0 +1,6 @@
+id,task,date,reminder
+0,Doctor apointment,Monday 16:00,True
+1,Shopping,Monday 17:00,True
+2,Doctor apointment,Tuesday 18:00,True
+3,Shopping,Tuesday 19:00,false
+4,Shopping,Saturday 20:00,True
